@@ -5,6 +5,12 @@
 
 Messe curso você vai dominar todo **git** e **github** do _zero ao profissional._
 
+**Ultimas updates:**
+
+- [X] Site responsivo
+- [ ] Login com fecebook
+- [ ] Pagina sobre a empresa
+
 ## Módulos:  
 
 * començando com git.
