@@ -12,7 +12,10 @@ Messe curso você vai dominar todo **git** e **github** do _zero ao profissional
 * GIT avançado.
 * Usando github de forma profissional.
 
-_Entendendo oque é **git**, Aprendendo sobre **repositorios**, Trabalhando com **branches**._
+1. començando com git.
+2. Aprendebndo sobre branches.
+3. GIT avançado.
+4. Usando github de forma profissional.
 
 ### Rede social:
 [Instagram](https://instagram.com/sujeitoprogramador)
