@@ -30,7 +30,7 @@ Messe curso você vai dominar todo **git** e **github** do _zero ao profissional
 >
 > Segunda area destacada
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ``` 
 npm start
